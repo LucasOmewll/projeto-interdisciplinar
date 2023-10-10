@@ -1,0 +1,16 @@
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\bin\Debug\herculespro.exe.config
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\bin\Debug\herculespro.exe
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\bin\Debug\herculespro.pdb
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\bin\Debug\herculespro.xml
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.vbproj.AssemblyReference.cache
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.Form1.resources
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.Resources.resources
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.vbproj.GenerateResource.cache
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.vbproj.CoreCompileInputs.cache
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.exe
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.xml
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.pdb
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\bin\Debug\zu-ZA\herculespro.resources.dll
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.Form1.zu-ZA.resources
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\zu-ZA\herculespro.resources.dll
+D:\ARQUIVOS\FATEC\Projeto Interdisciplinar\herculespro\obj\Debug\herculespro.cadastro_gerente.resources
