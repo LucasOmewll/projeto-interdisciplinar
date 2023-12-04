@@ -121,7 +121,7 @@
   <data name="RoundPictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAD6AAAA+gBAMAAAAcUf4xAAAABGdBTUEAALGPC/xhBQAAABhQTFRFAAAA
-        ////KCgoUlJSgICAxMTE4+Pjo6Oj7oeQ5wAAAAlwSFlzAAAOwwAADsMBx2+oZAAA63RJREFUeNrs/U17
+        ////KCgoUlJSgICAxMTE4+Pjo6Oj7oeQ5wAAAAlwSFlzAAAOwQAADsEBuJFr7QAA63RJREFUeNrs/U17
         G0li5+3igfyyFXpMaKsm65yztSX6aOspqVpb2ZZK29K4SW2rp6jW139I1QsDEpGIyIjMjIi877kue2OB
         CZUm//wxAHCzAwCaZ9ABoAMGHQA6YNABoAMGHQA6YNABoAMGHQA6YNABoAMGHQA6YNABoAMGHQA6YNAB
         oAMGHQA6YNABoAMGHQA6YNABoAMGHQA6YNABoAMGHQA6YNABoAMGHQA6YNABoAMGHQA6YNABoAMGHQA6
@@ -1227,7 +1227,7 @@
   <data name="btn_cadastrar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EQAACxEBf2RfkQAAAnBJREFUaEPtl7uO1DAUhmeBpWGReAEoEHdaHoKWAtEB78ADQAUl4knoqBBIwD4D
+        DwAACw8BkvkDpQAAAnBJREFUaEPtl7uO1DAUhmeBpWGReAEoEHdaHoKWAtEB78ADQAUl4knoqBBIwD4D
         NFvtcqkoEIp9giD8x/N7lM0mbOYkNhkpn2Qp9vHxnG/t8U4WMzPrU1XVKe/Lx07Kj87LD+/lg3O/bjO8
         GUBiGwIvvZRVvUHo90bJOJGHTYlV87LLadMFO7HFR5V53iaCXfnJKdMEEme8yGsRucchlXl2RETKTwxP
         D0js4Mi8Z7F76J9m6OjO+PIRQ9OiIbHvnLvE0IoooxcA5p/k8HRoSBw0Jeo7U4g8QH+b3cPoDcBFsjX8
@@ -1247,7 +1247,7 @@
     <value>NoControl</value>
   </data>
   <data name="btn_cadastrar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>153, 358</value>
+    <value>162, 471</value>
   </data>
   <data name="btn_cadastrar.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>
@@ -1286,7 +1286,7 @@
     <value>NoControl</value>
   </data>
   <data name="btn_sair.Location" type="System.Drawing.Point, System.Drawing">
-    <value>153, 422</value>
+    <value>162, 535</value>
   </data>
   <data name="btn_sair.RightToLeft" type="System.Windows.Forms.RightToLeft, System.Windows.Forms">
     <value>Yes</value>
@@ -1319,7 +1319,7 @@
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>600, 479</value>
+    <value>600, 600</value>
   </data>
   <data name="$this.Margin" type="System.Windows.Forms.Padding, System.Windows.Forms">
     <value>2, 2, 2, 2</value>
